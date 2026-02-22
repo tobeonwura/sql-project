@@ -17,7 +17,7 @@ A full analysys of a sales dataset demonstarating some of the key analysis using
 ## Steps
 - [trend analysis](https://github.com/tobeonwura/sql-project/blob/main/sql%20queries/trend%20analysis.sql)
 - [cummulative analysis](https://github.com/tobeonwura/sql-project/blob/main/sql%20queries/cummulative%20analysis.sql)
-- [perfomance analysis](https://github.com/tobeonwura/sql-project/blob/main/sql%20queries/perfomance%20analysis.sql)
+- [performance analysis](https://github.com/tobeonwura/sql-project/blob/main/sql%20queries/performance%20analysis.sql)
 - [part to whole analysis](https://github.com/tobeonwura/sql-project/blob/main/sql%20queries/part%20to%20whole%20analysis.sql)
 - [data segmentation analysis](https://github.com/tobeonwura/sql-project/blob/main/sql%20queries/data%20segmentation%20analysis.sql)
 - [report customers](https://github.com/tobeonwura/sql-project/blob/main/sql%20queries/report%20customers.sql)
