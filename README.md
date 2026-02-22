@@ -1,4 +1,4 @@
-# End-to-End SQL Project
+# Sales Data Analysis Using SQL
 
 ## Overview
 A full analysys of a sales dataset demonstarating some of the key analysis using SQL. Also included two reports symplifying the dataset on two of the dimensions namely customer and product dimensions.
